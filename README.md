@@ -1,66 +1,83 @@
-![MasterHead](https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Joy Chandra Shill</h1>
-<h3 align="center">A passionate Data analyst from Bangladesh</h3>
-<img align="right" alt="coding" width="400"
-  src="https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.gif">
+<!-- Banner -->
+[![MasterHead](https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.png)](https://codewithtanim.is-a.dev/)
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=learnwithjoyshill&label=Profile%20views&color=0e75b6&style=flat"
-    alt="learnwithjoyshill" /> </p>
+<!-- Name & Address -->
+<h2>Howdy , it's <i>JOY CHANDRA SHILL 👋</i></h2>
+A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i> 
+<br /><br />
 
-- 🌱 I’m currently learning **Python,Numpy**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **jshill668@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/learnwithjoys" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="learnwithjoys" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/learnwithjoyshill/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="learnwithjoyshill/" height="30" width="40" /></a>
-  <a href="https://fb.com/learnwithjoyshill" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="learnwithjoyshill" height="30" width="40" /></a>
+<!-- Dynamic Badges -->
+<p>
+    <a href="#"><img src="https://img.shields.io/github/followers/learnwithjoyshill?style=social&label=Followers&logo=github"></a>
+    <a href="#"><img src="https://img.shields.io/github/stars/learnwithjoyshill?style=social&label=Stars"></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=learnwithjoyshill&label=Profile%20Visitors&color=0e7b9e&style=flat" alt="Profile views"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Status-Coding%20%E2%98%95-success"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-      height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-      width="40" height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a> </p>
+<!-- Social Badges-->
+<hr />
+<p align=center>
+    <a href="https://www.linkedin.com/in/learnwithjoyshill" target="_blank"><img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://facebook.com/learnwithjoyshill" target="_blank"><img
+            src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logoColor=white&logo=facebook"
+            alt="Facebook"></a>
+    <a href="https://instagram.com/learnwithjoyshill" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+    <a href="https://x.com/@learnwithjoys" target="_blank"><img
+            src="https://img.shields.io/badge/x-white?style=for-the-badge&logoColor=red&logo=x"
+            alt="GPG Key"></a>
+</p>
+<hr />
 
-<h3 align="left">Stats:</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/stats-output/stats.svg" height="150"
-    alt="stats graph" /> <br>
+<!-- About me -->
+### `~/ AboutMe`
+<a href="#"><img align="right" height=300 src="assets/banner.gif"></a>
 
-  <h3 align="left">Language Graph:</h3>
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/languages-output/languages.svg"
-    height="150" alt="languages graph" /> <br>
+- I am a **student** 📚
+- Ask me about **Python**
+- Mail: **jshill668@gmail.com**
+- Fun Fact: **I am Funny**
 
-<h3 align="left">Streak:</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&"
-    alt="learnwithjoyshill" /></p><br><br>
+### Current Works:
+- Participating in Hackathon's.
+- Learning Python, NumPy.
+- Trying to get good marks in exams.
+<hr />
 
-<h3 align="left">Contribution Graph:</h3>
+<!-- Tech Stack with Icons -->
+### `~/Tech Stack`
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,mongodb,mysql,python,tensorflow,linux&perline=9" />
+</p>
+<br/>
+<hr />
+
+<!-- GitHub Analytics Grid -->
+### `📊 ~/Data Feed`
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=learnwithjoyshill&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&theme=radical&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=learnwithjoyshill&theme=radical" />
+</p>
+
+<hr />
+
+### `🏆 ~/Milestones`
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=learnwithjoyshill&theme=onedark&no-frame=true&row=2&column=4" />
+  </a>
+</p>
+
+<hr />
+
+<!-- Contribution 3D Snake Game (Custom) -->
+### `~/Contribution Arcade`
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/pacman-output/puzzle-bobble-contribution-graph-dark.svg">

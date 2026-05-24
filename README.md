@@ -58,7 +58,7 @@
 
 <h3 align="left">Streak:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&"
-    alt="learnwithjoyshill" /></p>
+    alt="learnwithjoyshill" /></p><br><br>
 
 <h3 align="left">Contribution Graph:</h3>
 <picture>

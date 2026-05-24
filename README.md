@@ -1,7 +1,7 @@
-[![MasterHead](#)]
+![MasterHead](https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Joy Chandra Shill</h1>
 <h3 align="center">A passionate Data analyst from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="#">
+<img align="right" alt="coding" width="400" src="https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learnwithjoyshill&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithjoyshill" /> </p>
 

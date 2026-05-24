@@ -48,7 +48,7 @@
   </a> </p>
 
 <h3 align="left">Stats:</h3>
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/stats-output/stats.svg" height="150"
     alt="stats graph" /> <br>
 
@@ -56,13 +56,8 @@
   <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/languages-output/languages.svg"
     height="150" alt="languages graph" /> <br>
 
-  <h3 align="left">Trophy:</h3>
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/trophy-output/trophy.svg" height="150"
-    alt="trophy graph" />
-</div>
-
 <h3 align="left">Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&"
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&"
     alt="learnwithjoyshill" /></p>
 
 <h3 align="left">Contribution Graph:</h3>
